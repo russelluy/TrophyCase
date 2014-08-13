@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<thumbnails>
+	<thumbnail filename="awards1.png" url="http://plevmudv07/jeremy/apps/pharmacyaward/" target="_blank" title="Patient Ready Award" description="Lorem ipsum dolor sit amet, consectetur adipisicing elit. dolor sit amet, consectetur adipisicing elit." />
+	
+	<thumbnail filename="awards2.png" title="Patient Care: Flu Season" description="Coming Soon" />
+	
+	<thumbnail filename="awards3.png"  title="Patient-Centered Care Services" description="Coming Soon" />
+	
+	<thumbnail filename="awards4.png" title="Award Sample" description="Coming Soon" />
+	
+	<thumbnail filename="awards5.png" title="Award Sample" description="Coming Soon" />
+	
+	<thumbnail filename="awards6.png" title="Award Sample" description="Coming Soon" />
+
+	<thumbnail filename="awards0.png"  title="Award Sample"  />
+	<thumbnail filename="awards0.png" title="Award Sample"  />
+
+</thumbnails>
